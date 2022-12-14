@@ -1,0 +1,22 @@
+{
+  "1": {
+      "name": "Mykhailo",
+      "email": "test@gmail.com",
+      "companies": [1, 2]
+  },
+  "2": {
+      "name": "Olena",
+      "email": "olena@gmail.com",
+      "companies": [1]
+  },
+  "3": {
+      "name": "Oleh",
+      "email": "oleh_oleh@gmail.com",
+      "companies": [2]
+  },
+  "4": {
+      "name": "Anastasia",
+      "email": "anastasia_123@gmail.com",
+      "companies": [1, 2, 3]
+  }
+}
